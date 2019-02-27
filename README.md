@@ -1,0 +1,2 @@
+# fishgen
+Phishing Email Generator
